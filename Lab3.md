@@ -1,6 +1,6 @@
 # Part 1 - Documentation
-![rpicampusmap gitstats](rpicampusmap-gitstats.png)
-![rpicampusmap gource](rpicampusmap-gource.png)
+![latex](latex.png)
+![matrix](matrix.png)
 
 # Part 2 - Community
 ### RPI Campus Map
