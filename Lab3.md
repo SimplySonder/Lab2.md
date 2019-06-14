@@ -1,4 +1,9 @@
-#### RPI Campus Map
+# Part 1 - Documentation
+![rpicampusmap gitstats](rpicampusmap-gitstats.png)
+![rpicampusmap gource](rpicampusmap-gource.png)
+
+# Part 2 - Community
+### RPI Campus Map
 ##### Number of contributors
 4
 ##### Number of lines of code
@@ -11,7 +16,7 @@ Mar 26, 2019
 5
 ![rpicampusmap gitstats](rpicampusmap-gitstats.png)
 ![rpicampusmap gource](rpicampusmap-gource.png)
-#### RPI Campus Trends Repo Data:
+### RPI Campus Trends Repo Data:
 ##### Number of Contributors: 
 5
 ##### Lines of Code: 
@@ -24,7 +29,7 @@ Mar 26, 2019
 2 (master and flask-refractor)
 ![rpicampustrends gitstats](rpicampustrends-gitstats.png)
 ![rpicampustrends gource](rpicampustrends-gource.png)
-#### RushMeiOS 
+### RushMeiOS 
 ##### Contributors: 
 3 
 ##### Lines of code: 
@@ -38,7 +43,7 @@ Thu Jan 17 09:26:24 2019
 Cam Chat ErrorSystem NewLook Notifications SaveFrats calendar changes-jim favorites linted-version master
 ![rushmeios gitstats](rushmeios-gitstats.png)
 ![rushmeios gource](rushmeios-gource.png)
-#### Runelite 
+### Runelite 
 ##### Contributors: 
 334 
 ##### Lines of code: 
